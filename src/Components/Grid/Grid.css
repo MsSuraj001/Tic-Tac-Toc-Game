@@ -1,0 +1,14 @@
+.grid{
+    width: 570px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.trun-highligth{
+    color: white;
+}
